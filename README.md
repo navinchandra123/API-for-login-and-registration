@@ -1,6 +1,6 @@
 # Login, Registration with Authentication using HTML | CSS | BOOTSTRAP | NODEJS | MONGODB | EJS
 
-I have created a web application that conatins a logn and a registartion page. This application is fully 
+I have created a web application that conatins a login and a registartion page. This application is fully 
 Authenticated. In registration page we take some input from user like Name , Email , Contact Number , Date Of Birth ,
 Password and Comfirm Password. If all the data is correct then we insert ther user data in our database(MONGODB).
 
