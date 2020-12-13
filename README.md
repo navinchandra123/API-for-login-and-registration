@@ -25,6 +25,7 @@ If we do not fill any fields or Enter unmatched password then it gives us a flas
 ![5](https://user-images.githubusercontent.com/44003571/102006663-b5162880-3d48-11eb-8bee-b168058ddad5.png)
 
  - Logout
+ 
  When we click on **Logout** we are redirected to our login page
  
  #                                                 THANK YOU!
